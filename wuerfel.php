@@ -35,5 +35,7 @@
         }
     }
     ?>
+	
+	<a href="index.php"><button>Zurück zur Startseite</button></a>
 </body>
 </html>
