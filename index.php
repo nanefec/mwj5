@@ -9,6 +9,7 @@
     <ul>
         <li><a href="kugel.php">Kugelberechnung</a></li>
 		<li><a href="wuerfel.php">Würfelberechnung</a></li>
+		<li><a href="zylinder.php">Zylinderberechnung</a></li>
     
     </ul>
 </body>
