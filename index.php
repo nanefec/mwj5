@@ -8,6 +8,7 @@
     <h1>Startseite</h1>
     <ul>
         <li><a href="kugel.php">Kugelberechnung</a></li>
+		<li><a href="wuerfel.php">Würfelberechnung</a></li>
     
     </ul>
 </body>
