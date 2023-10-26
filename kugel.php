@@ -12,6 +12,10 @@
         <input type="submit" name="submit" value="Berechnen">
     </form>
 
+</div>
+        <button onclick="window.location.href = 'index.html'">Zurück zur Startseite</button>
+    </div>
+    
     <?php
     
     if (isset($_POST['submit'])) {
